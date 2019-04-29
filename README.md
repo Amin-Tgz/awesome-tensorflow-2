@@ -36,7 +36,8 @@ More info [here](https://www.tensorflow.org/alpha).
 
 * [TensorFlow Tutorial 1](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 * [TensorFlow Tutorial 2](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
-* [TensorFlow Tutorial 3](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/
+* [TensorFlow Tutorial 3](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
+
 
 <a name="sample" />
 
