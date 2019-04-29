@@ -1,10 +1,10 @@
 # Awesome-TensorFlow-2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## What is TensorFlow?
+## Whats the advantages of TensorFlow 2.0 ?
+* TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
+* There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
-TensorFlow is an open source software library for numerical computation using data flow graphs. In other words, the best way to build deep learning models.
-
-More info [here](http://tensorflow.org).
+More info [here](https://www.tensorflow.org/alpha).
 
 
 
