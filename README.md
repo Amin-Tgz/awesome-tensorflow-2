@@ -27,7 +27,8 @@ More info [here](https://www.tensorflow.org/alpha).
 <a name="official" />
 
 ## Official Site
-
+* [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
+* [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
 * [Effective_tf2](https://www.tensorflow.org/alpha/guide/effective_tf2)
 * [Quick Start](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner)
 * [Upgrade guid](https://www.tensorflow.org/alpha/guide/upgrade)
