@@ -23,6 +23,7 @@ More info [here](https://www.tensorflow.org/alpha).
 <a name="official" />
 
 ## Official Site
+
 * [Effective_tf2](https://www.tensorflow.org/alpha/guide/effective_tf2)
 
 * [Quick Start](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner)
@@ -36,6 +37,7 @@ More info [here](https://www.tensorflow.org/alpha).
 <a name="github-tutorials" />
 
 ## Tutorials
+
 * [TensorFlow Tutorial 1](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 
 * [TensorFlow Tutorial 2](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
@@ -47,18 +49,22 @@ More info [here](https://www.tensorflow.org/alpha).
 
 
 ## Models/Projects
+
 * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
 
 
 ## Videos
+
 * [DevSummit 2019](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB) 
 
 
 ## Blog posts
+
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials)
 
 
 ## Books
+
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
