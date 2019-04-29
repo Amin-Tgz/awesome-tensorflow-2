@@ -1,12 +1,12 @@
 # Awesome-TensorFlow-2.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![alt text](logo-color-tensorflow.png)
+
 ## What are the advantages of TensorFlow 2.0 ?
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
 * There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
 More info [here](https://www.tensorflow.org/alpha).
-
-
 
 ## Table of Contents
 
@@ -19,6 +19,10 @@ More info [here](https://www.tensorflow.org/alpha).
 - [Books](#books)
 
 <!-- /MarkdownTOC -->
+
+
+<img src="downfinger.png" alt="down" width="250" height="150">
+
 
 <a name="official" />
 
@@ -76,6 +80,7 @@ More info [here](https://www.tensorflow.org/alpha).
 
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [TensorFlow Machine Learning Cookbook - Second Edition](https://www.oreilly.com/library/view/tensorflow-machine-learning/9781789131680/)
 
 <a name="contributions" />
 
