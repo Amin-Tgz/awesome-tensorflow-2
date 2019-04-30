@@ -40,10 +40,11 @@ More info [here](https://www.tensorflow.org/alpha).
 
 ## Tutorials
 
-* [TensorFlow Tutorial 1](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
-* [TensorFlow Tutorial 2](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
-* [TensorFlow Tutorial 3](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
-
+* [tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
+* [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
+* [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
+* [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course)
+* [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 
 <a name="sample" />
 
@@ -56,6 +57,7 @@ More info [here](https://www.tensorflow.org/alpha).
 * [Practical intro to tf2](https://github.com/himanshurawlani/practical_intro_to_tf2)
 * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
 * [Tensorflow2.0 examples](https://github.com/thibo73800/tensorflow2.0-examples)
+
 
 <a name="videos" />
 
