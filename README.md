@@ -45,6 +45,11 @@ More info [here](https://www.tensorflow.org/alpha).
 * [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
 * [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course)
 * [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+* [Tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
+* [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
+* [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials)
+
+
 
 <a name="sample" />
 
@@ -57,6 +62,12 @@ More info [here](https://www.tensorflow.org/alpha).
 * [Practical intro to tf2](https://github.com/himanshurawlani/practical_intro_to_tf2)
 * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
 * [Tensorflow2.0 examples](https://github.com/thibo73800/tensorflow2.0-examples)
+* [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+* [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+* [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
+* [Deep Learning with TensorFlow 2.X (& Keras)](https://github.com/yusugomori/deeplearning-tf2)
+* [TensorFlow 2 Machine Learning Cookbook, published by Packt](https://github.com/PacktPublishing/TensorFlow-2-Machine-Learning-Cookbook)
+* [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 
 
 <a name="videos" />
