@@ -48,7 +48,7 @@ More info [here](https://www.tensorflow.org/alpha).
 * [Tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
 * [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
 * [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials)
-
+* [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras)
 
 
 <a name="sample" />
@@ -69,6 +69,7 @@ More info [here](https://www.tensorflow.org/alpha).
 * [TensorFlow 2 Machine Learning Cookbook, published by Packt](https://github.com/PacktPublishing/TensorFlow-2-Machine-Learning-Cookbook)
 * [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
+* [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
 
 <a name="videos" />
 
