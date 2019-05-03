@@ -40,7 +40,7 @@ More info [here](https://www.tensorflow.org/alpha).
 
 ## Tutorials
 
-* [tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
+* [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 * [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
 * [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
 * [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course)
