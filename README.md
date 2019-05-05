@@ -9,6 +9,8 @@ A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspir
 
 More info [here](https://www.tensorflow.org/alpha).
 
+For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
+
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
