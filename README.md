@@ -44,39 +44,41 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 ## Tutorials
 
-* [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
-* [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
-* [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials)
-* [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course)
-* [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
-* [Tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
-* [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
-* [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials)
-* [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras)
-* [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
+* [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) <img src="imgs/3.png" alt="down" width="50" height="15">
+* [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples) <img src="imgs/3.png" alt="down" width="50" height="15">
+* [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials) <img src="imgs/4.png" alt="down" width="50" height="17">
+* [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras) <img src="imgs/3.png" alt="down" width="50" height="17">
+* [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
 
 <a name="sample" />
 
 ## Sample Codes / Projects
+   ### General
+   * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
+   * [Make Money with Tensorflow 2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
+   * [Practical intro to tf2](https://github.com/himanshurawlani/practical_intro_to_tf2)
+   * [Tensorflow2.0 examples](https://github.com/thibo73800/tensorflow2.0-examples)
+   * [Deep Learning with TensorFlow 2.X (& Keras)](https://github.com/yusugomori/deeplearning-tf2)
+   * [TensorFlow 2 Machine Learning Cookbook, published by Packt](https://github.com/PacktPublishing/TensorFlow-2-Machine-Learning-Cookbook)
+   * [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
+   * [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
 
-* [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
-* [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
-* [Make Money with Tensorflow 2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
-* [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
-* [Practical intro to tf2](https://github.com/himanshurawlani/practical_intro_to_tf2)
-* [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
-* [Tensorflow2.0 examples](https://github.com/thibo73800/tensorflow2.0-examples)
-* [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
-* [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
-* [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
-* [Deep Learning with TensorFlow 2.X (& Keras)](https://github.com/yusugomori/deeplearning-tf2)
-* [TensorFlow 2 Machine Learning Cookbook, published by Packt](https://github.com/PacktPublishing/TensorFlow-2-Machine-Learning-Cookbook)
-* [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
-* [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
-* [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
-* [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
-* [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
 
+   ### Specefic Model/Task (like GAN,YOLO,NLP,...)
+  * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
+  * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
+  * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
+  * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+  * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+  * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
+  * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
+  * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
+  * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
+ 
 <a name="videos" />
 
 ## Videos
@@ -86,7 +88,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="blogs" />
 
 ## Blog posts
-
+* [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 * [Test Drive TensorFlow 2.0 Alpha](https://medium.com/tensorflow/test-drive-tensorflow-2-0-alpha-b6dd1e522b01) 
 * [Recap of the 2019 TensorFlow Dev Summit](https://medium.com/tensorflow/recap-of-the-2019-tensorflow-dev-summit-1b5ede42da8d) 
