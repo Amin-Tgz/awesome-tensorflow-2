@@ -1,13 +1,15 @@
 # Awesome-TensorFlow-2.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
 
-![alt text](logo-color-tensorflow.png)
+![alt text](imgs/logo-color-tensorflow.png)
 
 ## What are the advantages of TensorFlow 2.0 ?
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
 * There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
 More info [here](https://www.tensorflow.org/alpha).
+
+![alt text](imgs/TF.png)
 
 For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
 
@@ -24,7 +26,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <!-- /MarkdownTOC -->
 
 
-<img src="downfinger.png" alt="down" width="250" height="150">
+<img src="imgs/downfinger.png" alt="down" width="250" height="150">
 
 
 <a name="official" />
@@ -51,7 +53,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
 * [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials)
 * [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras)
-
+* [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0)
 
 <a name="sample" />
 
@@ -72,6 +74,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
 * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
+* [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
+* [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
 
 <a name="videos" />
 
