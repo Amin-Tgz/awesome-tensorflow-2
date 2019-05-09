@@ -53,7 +53,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras) <img src="imgs/3.png" alt="down" width="50" height="17">
 * [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
 
-[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Sample Codes / Projects <a name="sample" />
 
@@ -80,7 +80,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
   * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
  
-[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos       <a name="videos" />
 ### DevSummit 2019
@@ -97,7 +97,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
    
- [<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+ [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Blog posts <a name="blogs" />
 * [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
@@ -110,7 +110,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) 
 * [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) 
 
-[<img src="imgs/up.png" alt="down" width="35" height="35">](#TOC)  **Back to Top**
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Books <a name="books" />
 
@@ -118,7 +118,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://www.oreilly.com/library/view/tensorflow-machine-learning/9781789131680/)
 
-[<img src="imgs/up.png" alt="down" width="35" height="35">](#TOC)  **Back to Top**
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Contributions  <a name="contributions" />
 
