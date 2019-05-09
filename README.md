@@ -24,12 +24,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [Videos](#videos)
 - [Blog posts](#blogs)
 - [Books](#books)
-
-<!-- /MarkdownTOC -->
-
+<!-- /MarkdownTOC --> <a name="TOC" />
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
-
 
 <a name="official" />
 
@@ -42,9 +39,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Road map](https://www.tensorflow.org/community/roadmap)
 * [FAQ](https://github.com/tensorflow/community/blob/master/sigs/testing/faq.md)
 
-<a name="github-tutorials" />
+[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
 
-## Tutorials
+## Tutorials <a name="github-tutorials" />
 
 * [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
@@ -56,9 +53,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras) <img src="imgs/3.png" alt="down" width="50" height="17">
 * [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
 
-<a name="sample" />
+[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
 
-## Sample Codes / Projects
+## Sample Codes / Projects <a name="sample" />
 
    ### General <a name="GeneralCode" />
    
@@ -83,10 +80,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
   * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
  
-<a name="videos" />
-
-## Videos
-
+[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+ 
+## Videos       <a name="videos" />
 ### DevSummit 2019
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
    * [**Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)**](https://www.youtube.com/watch?v=k5c-vg4rjBw)
@@ -101,9 +97,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
    
-<a name="blogs" />
-
-## Blog posts
+ [<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+ 
+## Blog posts <a name="blogs" />
 * [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 * [Test Drive TensorFlow 2.0 Alpha](https://medium.com/tensorflow/test-drive-tensorflow-2-0-alpha-b6dd1e522b01) 
@@ -114,18 +110,17 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) 
 * [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) 
 
+[<img src="imgs/up.png" alt="down" width="35" height="35">](#TOC)  **Back to Top**
 
-<a name="books" />
-
-## Books
+## Books <a name="books" />
 
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://www.oreilly.com/library/view/tensorflow-machine-learning/9781789131680/)
 
-<a name="contributions" />
+[<img src="imgs/up.png" alt="down" width="35" height="35">](#TOC)  **Back to Top**
 
-## Contributions
+## Contributions  <a name="contributions" />
 
 Your contributions are always welcome!
 
