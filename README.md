@@ -19,6 +19,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [Official Site](#official)
 - [Tutorials](#github-tutorials)
 - [SampleCodes/Projects](#sample)
+    - [General](#GeneralCode)
+    - [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
 - [Videos](#videos)
 - [Blog posts](#blogs)
 - [Books](#books)
@@ -57,7 +59,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="sample" />
 
 ## Sample Codes / Projects
-   ### General
+
+   ### General <a name="GeneralCode" />
+   
    * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    * [Make Money with Tensorflow 2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
    * [Practical intro to tf2](https://github.com/himanshurawlani/practical_intro_to_tf2)
@@ -66,9 +70,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [TensorFlow 2 Machine Learning Cookbook, published by Packt](https://github.com/PacktPublishing/TensorFlow-2-Machine-Learning-Cookbook)
    * [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
    * [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
-
-
-   ### Specefic Model/Task (like GAN,YOLO,NLP,...)
+   
+   ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
+   
   * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
   * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
   * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
