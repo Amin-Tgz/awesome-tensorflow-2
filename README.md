@@ -13,7 +13,7 @@ More info [here](https://www.tensorflow.org/alpha).
 
 For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
 
-## Table of Contents
+## Table of Contents <a name="TOC" />
 
 <!-- MarkdownTOC depth=4 -->
 - [Official Site](#official)
@@ -24,7 +24,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [Videos](#videos)
 - [Blog posts](#blogs)
 - [Books](#books)
-<!-- /MarkdownTOC --> <a name="TOC" />
+<!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
 
@@ -39,7 +39,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Road map](https://www.tensorflow.org/community/roadmap)
 * [FAQ](https://github.com/tensorflow/community/blob/master/sigs/testing/faq.md)
 
-[<img src="imgs/up.png" alt="down" width="30" height="30">](#TOC)    **Back to Top**
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
 ## Tutorials <a name="github-tutorials" />
 
