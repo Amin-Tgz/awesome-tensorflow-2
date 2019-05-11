@@ -22,6 +22,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
     - [General](#GeneralCode)
     - [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
 - [Videos](#videos)
+    - [DevSummit 2019](#DevSum)
+    - [Google I/O 2019](#GIO)
+    - [TensorFlow YouTube Channel](#TYC)
 - [Blog posts](#blogs)
 - [Books](#books)
 <!-- /MarkdownTOC --> 
@@ -83,15 +86,15 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos       <a name="videos" />
-### DevSummit 2019
+### DevSummit 2019 <a name="DevSum" />
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
    * [**Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)**](https://www.youtube.com/watch?v=k5c-vg4rjBw)
    
-### Google I/O 2019   
+### Google I/O 2019 <a name="GIO" />   
    * [PlayList](https://www.youtube.com/playlist?list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi)
    * [**Getting Started with TensorFlow 2.0 (Google I/O'19)**](https://www.youtube.com/watch?reload=9&v=lEljKc9ZtU8)
    
-### TensorFlow YouTube
+### TensorFlow YouTube Channel <a name="TYC" />
    * [Channel](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
    * [Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
