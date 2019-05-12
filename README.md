@@ -1,4 +1,4 @@
-# Awesome-TensorFlow-2.0 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TensorFlow 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
 
 ![alt text](imgs/logo-color-tensorflow.png)
