@@ -21,6 +21,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [SampleCodes/Projects](#sample)
     - [General](#GeneralCode)
     - [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
+        - [GAN](#GAN_Code)
+        - [NLP](#NLP_Code)
+        - [Other](#Other_Code)
 - [Videos](#videos)
     - [DevSummit 2019](#DevSum)
     - [Google I/O 2019](#GIO)
@@ -73,16 +76,22 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
-  * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
-  * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
-  * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
-  * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
-  * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
-  * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
-  * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
-  * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
-  * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
- 
+   #### GAN <a name="GAN_Code" />
+   * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
+   * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+   * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+   #### NLP <a name="NLP_Code" />
+   * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
+   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
+   
+   #### Other <a name="Other_Code" />
+   * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
+   * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
+   * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
+   * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
+   * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
+   
+
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos       <a name="videos" />
