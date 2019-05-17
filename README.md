@@ -30,6 +30,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
     - [TensorFlow YouTube Channel](#TYC)
 - [Blog posts](#blogs)
 - [Books](#books)
+- [Tools](#tools)
 <!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
@@ -79,6 +80,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    #### GAN <a name="GAN_Code" />
    * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
    * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+   * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
    #### NLP <a name="NLP_Code" />
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
@@ -131,6 +133,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://www.oreilly.com/library/view/tensorflow-machine-learning/9781789131680/)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
+
+## Tools <a name="tools" />
+
+* [TensorFlow 2.0 upgrader service](https://github.com/lc0/tf2up)
+
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
+
 
 ## Contributions  <a name="contributions" />
 
