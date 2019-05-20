@@ -123,6 +123,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [What are Symbolic and Imperative APIs in TensorFlow 2.0?](https://medium.com/tensorflow/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0-dfccecb01021) 
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8) 
 * [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) 
+* [Fast-SCNN explained and implemented using Tensorflow 2.0](https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
