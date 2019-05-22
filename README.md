@@ -28,6 +28,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
     - [DevSummit 2019](#DevSum)
     - [Google I/O 2019](#GIO)
     - [TensorFlow YouTube Channel](#TYC)
+    - [Other](#Other_Video)
 - [Blog posts](#blogs)
 - [Books](#books)
 - [Tools](#tools)
@@ -59,6 +60,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials) <img src="imgs/4.png" alt="down" width="50" height="17">
 * [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras) <img src="imgs/3.png" alt="down" width="50" height="17">
 * [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Deep Learning Crash Course-(S9)](https://github.com/isikdogan/deep_learning_tutorials) <img src="imgs/4.png" alt="down" width="50" height="17">
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
@@ -111,7 +113,10 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
-   
+### Other   <a name="Other_Video" />
+   * [GTC Silicon Valley-2019 ID:S9495:An Introduction to TensorFlow 2.0](https://developer.nvidia.com/gtc/2019/video/S9495)   
+   * [Make Money withTensorflow 2.0](https://www.youtube.com/watch?v=WS9Nckd2kq0)
+ 
  [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Blog posts <a name="blogs" />
