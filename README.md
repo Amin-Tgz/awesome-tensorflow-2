@@ -131,6 +131,12 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [My Notes on TensorFlow 2.0](https://medium.com/tensorflow/testing-for-tensorflow-2-0-2db0d17c37f0) 
 * [Create The Transformer With Tensorflow 2.0](https://machinetalk.org/2019/04/29/create-the-transformer-with-tensorflow-2-0/)
 * [Fast-SCNN explained and implemented using Tensorflow 2.0](https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e)
+* [Image Classification with high-level API of Tensorflow 2.0](https://hackernoon.com/image-classification-with-tensorflow-2-0-d5a98bcffce1)
+* [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2) 
+* [Easy Image Classification with TensorFlow 2.0](https://towardsdatascience.com/easy-image-classification-with-tensorflow-2-0-f734fee52d13) 
+* [Implementing an Autoencoder in TensorFlow 2.0](https://medium.com/@abien.agarap/implementing-an-autoencoder-in-tensorflow-2-0-5e86126e9f7)
+* [How to build a wide-and-deep model using Keras in TensorFlow](https://towardsdatascience.com/how-to-build-a-wide-and-deep-model-using-keras-in-tensorflow-2-0-2f7a236b5a4b) 
+* [Heart Disease Prediction in TensorFlow 2](https://medium.com/@curiousily/heart-disease-prediction-in-tensorflow-2-tensorflow-for-hackers-part-ii-378eef0400ee) 
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
