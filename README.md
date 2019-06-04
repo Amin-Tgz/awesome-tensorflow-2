@@ -116,6 +116,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 ### Other   <a name="Other_Video" />
    * [GTC Silicon Valley-2019 ID:S9495:An Introduction to TensorFlow 2.0](https://developer.nvidia.com/gtc/2019/video/S9495)   
    * [Make Money withTensorflow 2.0](https://www.youtube.com/watch?v=WS9Nckd2kq0)
+   * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
  
  [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
@@ -137,6 +138,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Implementing an Autoencoder in TensorFlow 2.0](https://medium.com/@abien.agarap/implementing-an-autoencoder-in-tensorflow-2-0-5e86126e9f7)
 * [How to build a wide-and-deep model using Keras in TensorFlow](https://towardsdatascience.com/how-to-build-a-wide-and-deep-model-using-keras-in-tensorflow-2-0-2f7a236b5a4b) 
 * [Heart Disease Prediction in TensorFlow 2](https://medium.com/@curiousily/heart-disease-prediction-in-tensorflow-2-tensorflow-for-hackers-part-ii-378eef0400ee) 
+* [Generating Text with TensorFlow 2.0](https://towardsdatascience.com/generating-text-with-tensorflow-2-0-6a65c7bdc568) 
+* [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
+* [TensorFlow 2.0 Global Docs Sprint Cheatsheet](https://medium.com/tensorflow/https-medium-com-margaretmz-tf-docs-sprint-cheatsheet-7cb1dfd3e8b5) 
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
