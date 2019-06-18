@@ -165,9 +165,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
 
-
-[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
-
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
 ## Contributions  <a name="contributions" />
 
