@@ -160,7 +160,6 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Python Wheels <a name="whl" />
-
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
