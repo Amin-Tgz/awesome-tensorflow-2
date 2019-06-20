@@ -28,6 +28,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
     - [DevSummit 2019](#DevSum)
     - [Google I/O 2019](#GIO)
     - [TensorFlow YouTube Channel](#TYC)
+    - [Course](#course)
     - [Other](#Other_Video)
 - [Blog posts](#blogs)
 - [Books](#books)
@@ -114,11 +115,15 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
+
+### Course  <a name="course" />
+   * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
+   * [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
+
 ### Other   <a name="Other_Video" />
    * [GTC Silicon Valley-2019 ID:S9495:An Introduction to TensorFlow 2.0](https://developer.nvidia.com/gtc/2019/video/S9495)   
    * [Make Money withTensorflow 2.0](https://www.youtube.com/watch?v=WS9Nckd2kq0)
-   * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
- 
+   
  [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Blog posts <a name="blogs" />
