@@ -89,6 +89,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
    * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+   
    #### NLP <a name="NLP_Code" />
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
@@ -100,7 +101,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
    * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
-   
+   * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
+   * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
+  
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
