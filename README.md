@@ -33,7 +33,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [Blog posts](#blogs)
 - [Books](#books)
 - [Tools](#tools)
-- [Python Wheels](#whl)
+- [Python Wheels](#whl) <-new!
+- [#PoweredByTF 2.0 Challenge](#PWBYTF2) <-new!
+
 <!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
@@ -90,6 +92,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    #### NLP <a name="NLP_Code" />
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
+   * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/bert)
    
    #### Other <a name="Other_Code" />
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
@@ -147,6 +150,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Generating Text with TensorFlow 2.0](https://towardsdatascience.com/generating-text-with-tensorflow-2-0-6a65c7bdc568) 
 * [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
 * [TensorFlow 2.0 Global Docs Sprint Cheatsheet](https://medium.com/tensorflow/https-medium-com-margaretmz-tf-docs-sprint-cheatsheet-7cb1dfd3e8b5) 
+* [TensorFlow 2.0 Alpha : Let seek the New in the Old](https://cv-tricks.com/tensorflow-tutorial/tensorflow-2-0-alpha/) 
+* [Announcing the winners of the #PoweredByTF 2.0 Dev Post Challenge](https://medium.com/tensorflow/announcing-the-winners-of-the-poweredbytf-2-0-dev-post-challenge-af39d9d5a208) 
+* [Announcing TensorFlow 2.0 Beta](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
@@ -154,7 +160,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-* [TensorFlow Machine Learning Cookbook - Second Edition](https://www.oreilly.com/library/view/tensorflow-machine-learning/9781789131680/)
+* [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
@@ -168,6 +174,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
+
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
+
+## #PoweredByTF 2.0 Challenge<a name="PWBYTF2" />
+
+* [HomePage](https://tensorflow.devpost.com/)
+* [Submissions](https://tensorflow.devpost.com/submissions)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
