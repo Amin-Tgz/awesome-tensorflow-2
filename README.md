@@ -7,7 +7,7 @@ A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspir
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
 * There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
-More info [here](https://www.tensorflow.org/alpha).
+More info [here](https://www.tensorflow.org/beta).
 
 ![alt text](imgs/TF.png)
 
@@ -33,7 +33,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 - [Blog posts](#blogs)
 - [Books](#books)
 - [Tools](#tools)
-- [Python Wheels](#whl) <-new!
+- [Other](#other) <-new!
 - [#PoweredByTF 2.0 Challenge](#PWBYTF2) <-new!
 
 <!-- /MarkdownTOC --> 
@@ -81,6 +81,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Hands On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
    * [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
    * [Discovering hidden factors of variation in deep networks](https://github.com/Warvito/discovering-hidden-factors-of-variation-in-deep-networks)
+   * [Tutorial to run TensorFlow 2 on mobile devices: Android, iOS and Browser](https://github.com/EliotAndres/tensorflow-2-run-on-mobile-devices-ios-android-browser)
    
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
@@ -173,10 +174,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Python Wheels <a name="whl" />
+## Other <a name="other" />
+* [Tensorflow Hub](https://tfhub.dev/s?q=tf2)
 
+### Python wheels
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
+
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
