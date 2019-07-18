@@ -1,9 +1,9 @@
-# Awesome TensorFlow 2 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TensorFlow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
 
 ![alt text](imgs/logo-color-tensorflow.png)
 
-## What are the advantages of TensorFlow 2.0 ?
+## What are the advantages of TensorFlow 2.0 ? 👀
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
 * There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
@@ -13,7 +13,7 @@ More info [here](https://www.tensorflow.org/beta).
 
 For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
 
-## Table of Contents <a name="TOC" />
+## 👉 Table of Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
 - [Official Site](#official)
@@ -42,7 +42,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 <a name="official" />
 
-## Official Site
+## Official Site 🏢 
 * [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
 * [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
 * [Effective_tf2](https://www.tensorflow.org/alpha/guide/effective_tf2)
@@ -53,7 +53,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
-## Tutorials <a name="github-tutorials" />
+## Tutorials <a name="github-tutorials" /> 📕 📘 📗 📓
 
 * [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
@@ -68,9 +68,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Sample Codes / Projects <a name="sample" />
+## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
 
-   ### General <a name="GeneralCode" />
+   ### General 🚧 <a name="GeneralCode" />
    
    * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    * [Make Money with Tensorflow 2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
@@ -85,18 +85,18 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
-   #### GAN <a name="GAN_Code" />
+   #### GAN <a name="GAN_Code" />🌄
    * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
    * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
    * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
    
-   #### NLP <a name="NLP_Code" />
+   #### NLP <a name="NLP_Code" />🌈
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/bert)
    
-   #### Other <a name="Other_Code" />
+   #### Other <a name="Other_Code" />🚦
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
@@ -108,7 +108,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
-## Videos       <a name="videos" />
+## Videos  🎥 📺 📹      <a name="videos" />
 ### DevSummit 2019 <a name="DevSum" />
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
    * [**Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)**](https://www.youtube.com/watch?v=k5c-vg4rjBw)
@@ -133,7 +133,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
  [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
-## Blog posts <a name="blogs" />
+## Blog posts <a name="blogs" />📃
 * [Tensorflow-2-models-migration-and-new-design](https://pgaleone.eu/tensorflow/gan/2018/11/04/tensorflow-2-models-migration-and-new-design/)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 * [Test Drive TensorFlow 2.0 Alpha](https://medium.com/tensorflow/test-drive-tensorflow-2-0-alpha-b6dd1e522b01) 
@@ -157,10 +157,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow 2.0 Alpha : Let seek the New in the Old](https://cv-tricks.com/tensorflow-tutorial/tensorflow-2-0-alpha/) 
 * [Announcing the winners of the #PoweredByTF 2.0 Dev Post Challenge](https://medium.com/tensorflow/announcing-the-winners-of-the-poweredbytf-2-0-dev-post-challenge-af39d9d5a208) 
 * [Announcing TensorFlow 2.0 Beta](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
+* [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/) 
+* [Information Theory with Tensorflow 2.0](https://dev.to/mmithrakumar/information-theory-with-tensorflow-2-0-29ao) 
+* [Portable Computer Vision: TensorFlow 2.0 on a Raspberry Pi](https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9) 
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Books <a name="books" />
+## Books <a name="books" />📚
 
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -168,30 +171,30 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Tools <a name="tools" />
+## Tools <a name="tools" />🔧
 
 * [TensorFlow 2.0 upgrader service](https://github.com/lc0/tf2up)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Other <a name="other" />
+## Other <a name="other" />🌱
 * [Tensorflow Hub](https://tfhub.dev/s?q=tf2)
 
-### Python wheels
+### Python wheels 🐍
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
 
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
-## #PoweredByTF 2.0 Challenge<a name="PWBYTF2" />
+## #PoweredByTF 2.0 Challenge<a name="PWBYTF2" /> 🔫 💣 🏆
 
 * [HomePage](https://tensorflow.devpost.com/)
 * [Submissions](https://tensorflow.devpost.com/submissions)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
-## Contributions  <a name="contributions" />
+## Contributions 📭  <a name="contributions" />
 
 Your contributions are always welcome!
 
