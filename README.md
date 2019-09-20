@@ -1,7 +1,34 @@
 # awesome tensorflow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
+A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 ![alt text](imgs/logo-color-tensorflow.png)
+
+## 👉 Contents <a name="TOC" />👈
+
+<!-- MarkdownTOC depth=4 -->
+* [What are the advantages of TensorFlow 2.0 ?](#firstSection)
+* [Official Site](#official)
+* [Tutorials](#github-tutorials)
+* [SampleCodes/Projects](#sample)
+    * [General](#GeneralCode)
+    * [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
+        * [GAN](#GAN_Code)
+        * [NLP](#NLP_Code)
+        * [Other](#Other_Code)
+* [Videos](#videos)
+    * [DevSummit 2019](#DevSum)
+    * [Google I/O 2019](#GIO)
+    * [TensorFlow YouTube Channel](#TYC)
+    * [Course](#course)
+    * [Other](#Other_Video)
+* [Blog posts](#blogs)
+* [Books](#books)
+* [Tools](#tools)
+* [Other](#other)
+* [#PoweredByTF 2.0 Challenge](#PWBYTF2) 
+<!-- /MarkdownTOC --> 
+
+<a name="firstSection" />
 
 ## What are the advantages of TensorFlow 2.0 ? 👀
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
@@ -12,31 +39,6 @@ More info [here](https://www.tensorflow.org/beta).
 ![alt text](imgs/TF.png)
 
 For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
-
-## 👉 Contents <a name="TOC" />👈
-
-<!-- MarkdownTOC depth=4 -->
-- [Official Site](#official)
-- [Tutorials](#github-tutorials)
-- [SampleCodes/Projects](#sample)
-    - [General](#GeneralCode)
-    - [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
-        - [GAN](#GAN_Code)
-        - [NLP](#NLP_Code)
-        - [Other](#Other_Code)
-- [Videos](#videos)
-    - [DevSummit 2019](#DevSum)
-    - [Google I/O 2019](#GIO)
-    - [TensorFlow YouTube Channel](#TYC)
-    - [Course](#course)
-    - [Other](#Other_Video)
-- [Blog posts](#blogs)
-- [Books](#books)
-- [Tools](#tools)
-- [Other](#other) <-new!
-- [#PoweredByTF 2.0 Challenge](#PWBYTF2) <-new!
-
-<!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
 
