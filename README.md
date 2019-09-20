@@ -84,7 +84,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0(PacktPub)](https://github.com/PacktPublishing/Implementing-Deep-Learning-Algorithms-with-TensorFlow-2.0)
    * [Discovering hidden factors of variation in deep networks](https://github.com/Warvito/discovering-hidden-factors-of-variation-in-deep-networks)
    * [Tutorial to run TensorFlow 2 on mobile devices: Android, iOS and Browser](https://github.com/EliotAndres/tensorflow-2-run-on-mobile-devices-ios-android-browser)
-   
+   * [Tensorflow2.x Examples from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
+
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
    #### GAN <a name="GAN_Code" />🌄
@@ -106,7 +107,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
    * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
    * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
-  
+   * [Handwritten Text Recognition (HTR) system implemented using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
