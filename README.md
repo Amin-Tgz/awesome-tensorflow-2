@@ -1,5 +1,5 @@
 # awesome tensorflow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome TensorFlow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
+A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects. Inspired by awesome-tensorflow
 
 ![alt text](imgs/logo-color-tensorflow.png)
 
@@ -53,7 +53,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
-## Tutorials <a name="github-tutorials" /> 📕 📘 📗 📓
+## Tutorials <a name="GitHub-tutorials" /> 📕 📘 📗 📓
 
 * [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
