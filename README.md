@@ -13,7 +13,7 @@ More info [here](https://www.tensorflow.org/beta).
 
 For Tensrflow **version <1.x>** see this **[awesome collection](https://github.com/jtoy/awesome-tensorflow)** created by jtoy.
 
-## 👉 Table of Contents <a name="TOC" />👈
+## 👉 Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
 - [Official Site](#official)
