@@ -3,7 +3,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 ![alt text](imgs/logo-color-tensorflow.png)
 
-## 👉 Contents <a name="TOC" />👈
+# Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
 * [What are the advantages of TensorFlow 2.0 ?](#firstSection)
@@ -208,3 +208,6 @@ Also, if you notice that any of the above listed repositories should be deprecat
 * Not committed for long time (2~3 years).
 
 More info on the [guidelines](https://github.com/Amin-Tgz/Awesome-TensorFlow-2/blob/master/contributing.md)
+
+## License
+Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
