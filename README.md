@@ -85,6 +85,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Discovering hidden factors of variation in deep networks](https://github.com/Warvito/discovering-hidden-factors-of-variation-in-deep-networks)
    * [Tutorial to run TensorFlow 2 on mobile devices: Android, iOS and Browser](https://github.com/EliotAndres/tensorflow-2-run-on-mobile-devices-ios-android-browser)
    * [Tensorflow2.x Examples from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
+   * [Deep-Learning-with-TensorFlow-2.0-in-7-Steps-[Packt]](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2.0-in-7-Steps)
+   * [Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video-[Packt]](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video)
 
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
@@ -95,11 +97,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
    
    #### NLP <a name="NLP_Code" />🌈
+   * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/bert)
    
    #### Other <a name="Other_Code" />🚦
+   * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
@@ -108,7 +112,10 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
    * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
    * [Handwritten Text Recognition (HTR) system implemented using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
-
+   * [Meta learning framework with Tensorflow 2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
+   * [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow - Udemy Course](https://github.com/sergejhorvat/Tensorflow2.0_Udemy)
+   * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
+   
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos  🎥 📺 📹      <a name="videos" />
