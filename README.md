@@ -1,4 +1,4 @@
-# awesome tensorflow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Tensorflow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 ![alt text](imgs/logo-color-tensorflow.png)
@@ -8,7 +8,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 <!-- MarkdownTOC depth=4 -->
 * [What are the advantages of TensorFlow 2.0 ?](#firstSection)
 * [Official Site](#official)
-* [Tutorials](#github-tutorials)
+* [Tutorials](#GitHub-tutorials)
 * [SampleCodes/Projects](#sample)
     * [General](#GeneralCode)
     * [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
@@ -34,7 +34,9 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 * TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
 * There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
-More info [here](https://www.tensorflow.org/beta).
+More info [here](https://www.tensorflow.org/tutorials).
+
+TensorFlow 2.0 is now available! 🎉🎉🎉
 
 ![alt text](imgs/TF.png)
 
@@ -70,7 +72,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
+## Sample Codes / Projects <a name="sample" /> ⛏️📐📁
 
    ### General 🚧 <a name="GeneralCode" />
    
@@ -164,12 +166,14 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Generating Text with TensorFlow 2.0](https://towardsdatascience.com/generating-text-with-tensorflow-2-0-6a65c7bdc568) 
 * [Ten Important Updates from TensorFlow 2.0](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
 * [TensorFlow 2.0 Global Docs Sprint Cheatsheet](https://medium.com/tensorflow/https-medium-com-margaretmz-tf-docs-sprint-cheatsheet-7cb1dfd3e8b5) 
-* [TensorFlow 2.0 Alpha : Let seek the New in the Old](https://cv-tricks.com/tensorflow-tutorial/tensorflow-2-0-alpha/) 
 * [Announcing the winners of the #PoweredByTF 2.0 Dev Post Challenge](https://medium.com/tensorflow/announcing-the-winners-of-the-poweredbytf-2-0-dev-post-challenge-af39d9d5a208) 
-* [Announcing TensorFlow 2.0 Beta](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
 * [Analyzing tf.function to discover AutoGraph strengths and subtleties](https://pgaleone.eu/tensorflow/tf.function/2019/03/21/dissecting-tf-function-part-1/) 
 * [Information Theory with Tensorflow 2.0](https://dev.to/mmithrakumar/information-theory-with-tensorflow-2-0-29ao) 
 * [Portable Computer Vision: TensorFlow 2.0 on a Raspberry Pi](https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9) 
+-----------------------------------------------------------------------------------------------------------------------
+* [TensorFlow 2.0 Alpha : Let seek the New in the Old](https://cv-tricks.com/tensorflow-tutorial/tensorflow-2-0-alpha/) 
+* [Announcing TensorFlow 2.0 Beta](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
+* [TensorFlow 2.0 is now available!](https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
@@ -184,13 +188,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 ## Tools <a name="tools" />🔧
 
 * [TensorFlow 2.0 upgrader service](https://github.com/lc0/tf2up)
+* [Tensorflow Hub](https://tfhub.dev/s?q=tf2)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Other <a name="other" />🌱
-### Tensorflow Hub
-* [Tensorflow Hub](https://tfhub.dev/s?q=tf2)
-
 ### Python wheels 🐍
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
