@@ -22,8 +22,12 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
     * [Course](#course)
     * [Other](#Other_Video)
 * [Blog posts](#blogs)
-* [Books](#books)
 * [Other](#other)
+   * [Python wheels](#whls)
+   * [Tools](#tools)
+   * [#PoweredByTF 2.0 Challenge](#PWBYTF2)
+   * [Books](#books)
+   
 <!-- /MarkdownTOC --> 
 
 <a name="firstSection" />
@@ -175,16 +179,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
-## Books <a name="books" />📚
-
-* [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-* [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
-
-[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
-
 ## Other <a name="other" />🌱
-### Python wheels 🐍
+### Python wheels  <a name="whls" />🐍
 * [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
 * [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
 * [Tensorflow 2.0rc2 GPU | Python 3.7 | CUDA 10.1](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/122)
@@ -197,6 +193,12 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 * [HomePage](https://tensorflow.devpost.com/)
 * [Submissions](https://tensorflow.devpost.com/submissions)
+
+### Books <a name="books" />📚
+
+* [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
+* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
