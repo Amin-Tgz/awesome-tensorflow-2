@@ -3,7 +3,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 ![alt text](imgs/logo-color-tensorflow.png)
 
-# Contents <a name="TOC" />👈
+# 👉 Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
 * [What are the advantages of TensorFlow 2.0 ?](#firstSection)
@@ -49,11 +49,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="official" />
 
 ## Official Site 🏢 
-* [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
+* [TensorFlow 2.0](https://www.tensorflow.org/)
 * [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
-* [Effective_tf2](https://www.tensorflow.org/alpha/guide/effective_tf2)
-* [Quick Start](https://www.tensorflow.org/alpha/tutorials/quickstart/beginner)
-* [Upgrade guid](https://www.tensorflow.org/alpha/guide/upgrade)
+* [Effective_tf2](https://www.tensorflow.org/guide/effective_tf2)
+* [Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
+* [Upgrade guid](https://www.tensorflow.org/guide/upgrade)
 * [Road map](https://www.tensorflow.org/community/roadmap)
 * [FAQ](https://github.com/tensorflow/community/blob/master/sigs/testing/faq.md)
 
@@ -103,7 +103,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    #### NLP <a name="NLP_Code" />🌈
    * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
-   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf)
+   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/bert)
    
    #### Other <a name="Other_Code" />🚦
