@@ -62,7 +62,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 ## Tutorials <a name="GitHub-tutorials" /> 📕 📘 📗 📓
 
 * [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
-* [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/r2/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Official tutorial](https://github.com/tensorflow/docs/tree/master/site/en/tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Deep Learning with TensorFlow 2 and Keras course](https://github.com/ageron/tf2_course) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) <img src="imgs/3.png" alt="down" width="50" height="15">
