@@ -91,7 +91,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Tensorflow2.x Examples from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples)
    * [Deep-Learning-with-TensorFlow-2.0-in-7-Steps-[Packt]](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2.0-in-7-Steps)
    * [Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video-[Packt]](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video)
-
+   * [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow - Udemy Course](https://github.com/sergejhorvat/Tensorflow2.0_Udemy)
+   * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
+   
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
    #### GAN <a name="GAN_Code" />🌄
@@ -117,8 +119,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
    * [Handwritten Text Recognition (HTR) system implemented using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
    * [Meta learning framework with Tensorflow 2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
-   * [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow - Udemy Course](https://github.com/sergejhorvat/Tensorflow2.0_Udemy)
-   * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
+
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
