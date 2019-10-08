@@ -104,7 +104,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
-   * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/bert)
+   * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/nlp/bert)
    
    #### Other <a name="Other_Code" />🚦
    * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
