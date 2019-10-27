@@ -11,7 +11,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 * [Tutorials](#GitHub-tutorials)
 * [SampleCodes/Projects](#sample)
     * [General](#GeneralCode)
-    * [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
+    * [Specific Model/Task (like GAN,RL,NLP,...)](#SpecificCode)
         * [Reinforcement Learning](#RL)
         * [GAN](#GAN_Code)
         * [NLP](#NLP_Code)
@@ -95,7 +95,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow - Udemy Course](https://github.com/sergejhorvat/Tensorflow2.0_Udemy)
    * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
    
-   ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
+   ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
    ### Reinforcement Learning <a name="RL" />🔮
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
