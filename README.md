@@ -96,11 +96,17 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
+   ### Reinforcement Learning <a name="RL" />
+   * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
+   * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
+   * [TF2 PPO Atari](https://github.com/UesugiErii/tf2-PPO-atari)
+
    #### GAN <a name="GAN_Code" />🌄
    * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
    * [CycleGAN-Tensorflow-2](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
    * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+   * [Fast-SRGAN (Single Image Super Resolution GAN)](https://github.com/HasnainRaz/Fast-SRGAN)
    
    #### NLP <a name="NLP_Code" />🌈
    * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
@@ -112,14 +118,13 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
-   * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
-   * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
    * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
    * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
    * [Handwritten Text Recognition (HTR) system implemented using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
    * [Meta learning framework with Tensorflow 2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
-
+   * [Simple Template for Tensorflow 2.X](https://github.com/SCP-173-cool/TF2_template)
+   * [Shortest_triplet_network_with_TF2.0](https://github.com/FraLupo/shortest_triplet_network_with_tf2.0)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
