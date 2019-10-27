@@ -12,6 +12,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 * [SampleCodes/Projects](#sample)
     * [General](#GeneralCode)
     * [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
+        * [Reinforcement Learning](#RL)
         * [GAN](#GAN_Code)
         * [NLP](#NLP_Code)
         * [Other](#Other_Code)
@@ -96,7 +97,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
    ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
    
-   ### Reinforcement Learning <a name="RL" />
+   ### Reinforcement Learning <a name="RL" />🔮
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
    * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
    * [TF2 PPO Atari](https://github.com/UesugiErii/tf2-PPO-atari)
