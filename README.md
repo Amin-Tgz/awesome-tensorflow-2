@@ -98,6 +98,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
    ### Reinforcement Learning <a name="RL" />🔮
+   * [TensorFlow2.0 Reinforcement Learning Library!(TF2RL)](https://github.com/keiohta/tf2rl)
+   * [Scalable and Efficient Deep-RL](https://github.com/google-research/seed_rl)
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
    * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
    * [TF2 PPO Atari](https://github.com/UesugiErii/tf2-PPO-atari)
