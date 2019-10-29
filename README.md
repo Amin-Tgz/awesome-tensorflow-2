@@ -126,6 +126,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Meta learning framework with Tensorflow 2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
    * [Simple Template for Tensorflow 2.X](https://github.com/SCP-173-cool/TF2_template)
    * [Shortest_triplet_network_with_TF2.0](https://github.com/FraLupo/shortest_triplet_network_with_tf2.0)
+   * [Arbitrary Style Transfer in Real-time](https://github.com/gs18113/AdaIN-TensorFlow2)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
