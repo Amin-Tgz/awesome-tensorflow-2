@@ -118,6 +118,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/nlp/bert)
    
    #### Other <a name="Other_Code" />🚦
+   * [Tensorflow2 question-answering (Kaggle)](https://www.kaggle.com/c/tensorflow2-question-answering/notebooks)
    * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
