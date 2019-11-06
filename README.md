@@ -126,8 +126,6 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    #### Other <a name="Other_Code" />🚦
    * [Some state-of-the-art Few Shot Learning algorithms in Tensorflow 2](https://github.com/ClementWalter/Keras-FewShotLearning)
    * [Tensorflow2 question-answering (Kaggle)](https://www.kaggle.com/c/tensorflow2-question-answering/notebooks)
-   
-  
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
    * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
