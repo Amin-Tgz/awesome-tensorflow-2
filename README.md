@@ -15,6 +15,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
         * [Reinforcement Learning](#RL)
         * [GAN](#GAN_Code)
         * [NLP](#NLP_Code)
+        * [Object Detection](#OD)
         * [Other](#Other_Code)
 * [Videos](#videos)
     * [DevSummit 2019](#DevSum)
@@ -117,11 +118,16 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/nlp/bert)
    
+   #### Object Detection <a name="OD" />🔥
+   * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
+   * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
+   * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
+   
    #### Other <a name="Other_Code" />🚦
    * [Some state-of-the-art Few Shot Learning algorithms in Tensorflow 2](https://github.com/ClementWalter/Keras-FewShotLearning)
    * [Tensorflow2 question-answering (Kaggle)](https://www.kaggle.com/c/tensorflow2-question-answering/notebooks)
-   * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
-   * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
+   
+  
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
    * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
