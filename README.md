@@ -99,6 +99,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
    ### Reinforcement Learning <a name="RL" />🔮
+   * [Play Super Mario Games using Reinforcement Learning with TensorFlow 2.0](https://github.com/james94/Super-Mario-Reinforcement-Learning)
    * [TensorFlow2.0 Reinforcement Learning Library!(TF2RL)](https://github.com/keiohta/tf2rl)
    * [Scalable and Efficient Deep-RL](https://github.com/google-research/seed_rl)
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
@@ -124,6 +125,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
    
    #### Other <a name="Other_Code" />🚦
+   * [Edward2 => A lightweight probabilistic programming language in NumPy or TensorFlow](https://github.com/google/edward2)
+   * [Attention OCR in Tensorflow 2.0](https://github.com/alleveenstra/attentionocr)
+   * [An implementation of HTR(Handwritten Text Recognition) using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
    * [Some state-of-the-art Few Shot Learning algorithms in Tensorflow 2](https://github.com/ClementWalter/Keras-FewShotLearning)
    * [Tensorflow2 question-answering (Kaggle)](https://www.kaggle.com/c/tensorflow2-question-answering/notebooks)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
