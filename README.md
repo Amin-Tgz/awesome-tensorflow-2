@@ -115,9 +115,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    
    #### NLP <a name="NLP_Code" />🌈
    * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
+   * [Tensorflow 2 implementation of Causal-BERT](https://github.com/vveitch/causal-text-embeddings-tf2)
    * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/nlp/bert)
+   * [A Keras TensorFlow 2.0 implementation of BERT, ALBERT and adapter-BERT](https://github.com/kpe/bert-for-tf2)
    
    #### Object Detection <a name="OD" />🔥
    * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
@@ -125,6 +127,12 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
    
    #### Other <a name="Other_Code" />🚦
+   * [fast and scalable design of risk parity portfolios with TensorFlow 2.0](https://github.com/dppalomar/riskparity.py)
+   * [Tensorflow 2.0 Realtime Multi-Person Pose Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation)
+   * [Train ResNet on ImageNet in Tensorflow 2.0](https://github.com/Apm5/ImageNet_ResNet_Tensorflow2.0)
+   * [CBAM(Convolutional Block Attention Module) implementation on TensowFlow2.0](https://github.com/zhangkaifang/CBAM-TensorFlow2.0)
+   * [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://github.com/peteryuX/arcface-tf2)
+   * [Pointnet++ modules implemented as tensorflow 2 keras layers](https://github.com/dgriffiths3/pointnet2-tensorflow2)
    * [Edward2 => A lightweight probabilistic programming language in NumPy or TensorFlow](https://github.com/google/edward2)
    * [Attention OCR in Tensorflow 2.0](https://github.com/alleveenstra/attentionocr)
    * [An implementation of HTR(Handwritten Text Recognition) using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
