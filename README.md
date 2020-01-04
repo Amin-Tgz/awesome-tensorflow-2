@@ -1,12 +1,12 @@
 # Awesome Tensorflow 2 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
+A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
 
 ![alt text](imgs/logo-color-tensorflow.png)
 
 # 👉 Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
-* [What are the advantages of TensorFlow 2.0 ?](#firstSection)
+* [What are the advantages of TensorFlow v2 ?](#firstSection)
 * [Official Site](#official)
 * [Tutorials](#GitHub-tutorials)
 * [SampleCodes/Projects](#sample)
@@ -34,9 +34,9 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 <a name="firstSection" />
 
-## What are the advantages of TensorFlow 2.0 ? 👀
-* TensorFlow 2.0 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
-* There are multiple changes in TensorFlow 2.0 to make TensorFlow users more productive. TensorFlow 2.0 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
+## What are the advantages of TensorFlow v2 ? 👀
+* TensorFlow 2 focuses on simplicity and ease of use, with updates like eager execution, intuitive higher-level APIs, and flexible model   building on any platform
+* There are multiple changes in TensorFlow 2 to make TensorFlow users more productive. TensorFlow 2 removes redundant APIs, makes APIs more consistent (Unified RNNs, Unified Optimizers), and better integrates with the Python runtime with Eager execution.
 
 More info [here](https://www.tensorflow.org/tutorials).
 
