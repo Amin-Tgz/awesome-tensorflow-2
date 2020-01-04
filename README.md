@@ -40,7 +40,7 @@ A curated list of awesome Tensorflow v2.0 tutorials, blogs, and projects.
 
 More info [here](https://www.tensorflow.org/tutorials).
 
-TensorFlow 2.0 is now available! 🎉🎉🎉
+TensorFlow 2.1 is now available! 🎉🎉🎉
 
 ![alt text](imgs/TF.png)
 
@@ -51,8 +51,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="official" />
 
 ## Official Site 🏢 
-* [TensorFlow 2.0](https://www.tensorflow.org/)
-* [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.0 & cuDNN >= 7.4.1)
+* [TensorFlow 2.1](https://www.tensorflow.org/)
+* [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.1 & cuDNN = 7.6)
 * [Effective_tf2](https://www.tensorflow.org/guide/effective_tf2)
 * [Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
 * [Upgrade guid](https://www.tensorflow.org/guide/upgrade)
