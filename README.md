@@ -59,6 +59,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Upgrade guid](https://www.tensorflow.org/guide/upgrade)
 * [Road map](https://www.tensorflow.org/community/roadmap)
 * [FAQ](https://github.com/tensorflow/community/blob/master/sigs/testing/faq.md)
+* [Blog](https://blog.tensorflow.org/)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
@@ -222,9 +223,10 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 
 ## Other <a name="other" />🌱
 ### Python wheels  <a name="whls" />🐍
-* [TensorFlow 2.0.0-beta1 CPU (no AVX, with SSEs), Python 3.6, Ubuntu 18.04, x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/113)
-* [TensorFlow 2.0.0-beta0 CPU, Python 3.5, ARMv7 for Raspberry Pi](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/114)
-* [Tensorflow 2.0rc2 GPU | Python 3.7 | CUDA 10.1](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/122)
+* [Tensorflow 2.1.0 Linux GPU (Compute 7.0, 7.2, 7.5), Python 3.8, CUDA 10.2, cuDNN 7.6, AVX2, MKL, TensorRT 6](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/140)
+* [TensorFlow 2.0.0, Python 3.7, Docker Image, no AVX / Nehalem-CPU-Instructionset | Linux x86_64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/125)
+* [Tensorflow v2.0.0, Python 3.7, CUDA 10.0, cuDNN 7.6.4, without AVX, Windows 10 x64](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/127)
+* [TensorFlow 2.0, GPU (Compute Compatible 6.1,7.5) , CUDA 10.1, cuDNN 7.6, AVX, Python 3.6, MKL, XLA, CPU i3-8100, Ubuntu 18.04](https://github.com/yaroslavvb/tensorflow-community-wheels/issues/129)
 
 ### Tools <a name="tools" />🔧
 * [TensorFlow 2.0 upgrader service](https://github.com/lc0/tf2up)
