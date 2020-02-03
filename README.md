@@ -18,6 +18,7 @@ A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
         * [Object Detection](#OD)
         * [Other](#Other_Code)
 * [Videos](#videos)
+    * [TensorFlow World 2019](#TFW19)
     * [DevSummit 2019](#DevSum)
     * [Google I/O 2019](#GIO)
     * [TensorFlow YouTube Channel](#TYC)
@@ -155,7 +156,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos  🎥 📺 📹      <a name="videos" />
-### TensorFlow World 2019
+### TensorFlow World 2019 <a name="TFW19" />
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg)
    * [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts](https://www.youtube.com/watch?v=5ECD8J3dvDQ&list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg&index=4&t=0s)
 
