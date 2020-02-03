@@ -95,6 +95,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video-[Packt]](https://github.com/PacktPublishing/Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video)
    * [TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow - Udemy Course](https://github.com/sergejhorvat/Tensorflow2.0_Udemy)
    * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
+   * [AiSpace: Better practices for deep learning model development and deployment For Tensorflow 2.0](https://github.com/yingyuankai/AiSpace)
+   * [Multi-Similarity Loss Re-Implementation in Tensorflow 2.x](https://github.com/shun-lin/multi-similarity-loss-tensorflow)
+   
    
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
@@ -127,6 +130,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
    
    #### Other <a name="Other_Code" />🚦
+   * [A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet). ](https://github.com/calmisential/Basic_CNNs_TensorFlow2) <==
    * [fast and scalable design of risk parity portfolios with TensorFlow 2.0](https://github.com/dppalomar/riskparity.py)
    * [Tensorflow 2.0 Realtime Multi-Person Pose Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation)
    * [Train ResNet on ImageNet in Tensorflow 2.0](https://github.com/Apm5/ImageNet_ResNet_Tensorflow2.0)
@@ -151,6 +155,10 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Videos  🎥 📺 📹      <a name="videos" />
+### TensorFlow World 2019
+   * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg)
+   * [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts](https://www.youtube.com/watch?v=5ECD8J3dvDQ&list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg&index=4&t=0s)
+
 ### DevSummit 2019 <a name="DevSum" />
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
    * [**Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)**](https://www.youtube.com/watch?v=k5c-vg4rjBw)
@@ -166,6 +174,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
 
 ### Course  <a name="course" />
+   * [TensorFlow 2.0 Full Tutorial - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=6g4O5UOH304)
    * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
    * [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
