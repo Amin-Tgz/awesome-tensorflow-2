@@ -138,6 +138,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Train ResNet on ImageNet in Tensorflow 2.0](https://github.com/Apm5/ImageNet_ResNet_Tensorflow2.0)
    * [CBAM(Convolutional Block Attention Module) implementation on TensowFlow2.0](https://github.com/zhangkaifang/CBAM-TensorFlow2.0)
    * [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://github.com/peteryuX/arcface-tf2)
+   * [Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/peteryuX/esrgan-tf2)
+   * [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://github.com/peteryuX/retinaface-tf2)
    * [Pointnet++ modules implemented as tensorflow 2 keras layers](https://github.com/dgriffiths3/pointnet2-tensorflow2)
    * [Edward2 => A lightweight probabilistic programming language in NumPy or TensorFlow](https://github.com/google/edward2)
    * [Attention OCR in Tensorflow 2.0](https://github.com/alleveenstra/attentionocr)
