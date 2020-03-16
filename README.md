@@ -155,6 +155,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Shortest_triplet_network_with_TF2.0](https://github.com/FraLupo/shortest_triplet_network_with_tf2.0)
    * [Arbitrary Style Transfer in Real-time](https://github.com/gs18113/AdaIN-TensorFlow2)
    * [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://github.com/peteryuX/retinaface-tf2)
+   * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
