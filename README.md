@@ -99,7 +99,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Interpretability Methods for tf.keras models with Tensorflow 2.0](https://github.com/sicara/tf-explain)
    * [AiSpace: Better practices for deep learning model development and deployment For Tensorflow 2.0](https://github.com/yingyuankai/AiSpace)
    * [Multi-Similarity Loss Re-Implementation in Tensorflow 2.x](https://github.com/shun-lin/multi-similarity-loss-tensorflow)
-   
+   * [Deep Learning with TensorFlow 2 and Keras - 2nd Edition PacktPub](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
+   * [Graph Neural Networks in TF2 (TensorFlow 2 library implementing Graph Neural Networks by Microsoft)](https://github.com/microsoft/tf2-gnn)
    
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
