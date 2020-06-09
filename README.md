@@ -41,7 +41,7 @@ A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
 
 More info [here](https://www.tensorflow.org/tutorials).
 
-TensorFlow 2.1 is now available! 🎉🎉🎉
+TensorFlow 2.2 is now available! 🎉🎉🎉
 
 ![alt text](imgs/TF.png)
 
@@ -52,7 +52,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="official" />
 
 ## Official Site 🏢 
-* [TensorFlow 2.1](https://www.tensorflow.org/)
+* [TensorFlow 2.2](https://www.tensorflow.org/)
 * [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.1 & cuDNN = 7.6)
 * [Effective_tf2](https://www.tensorflow.org/guide/effective_tf2)
 * [Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
@@ -132,6 +132,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
+   * [Yolo v4 using TensorFlow 2.x](https://github.com/RobotEdh/Yolov-4)
    
    #### Other <a name="Other_Code" />🚦
    * [A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet). ](https://github.com/calmisential/Basic_CNNs_TensorFlow2) <==
@@ -157,6 +158,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Arbitrary Style Transfer in Real-time](https://github.com/gs18113/AdaIN-TensorFlow2)
    * [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://github.com/peteryuX/retinaface-tf2)
    * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
+   * [An implementation of model-predictive control algorithms using TensorFlow 2](https://github.com/thiagopbueno/tf-mpc)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
