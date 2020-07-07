@@ -101,6 +101,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Multi-Similarity Loss Re-Implementation in Tensorflow 2.x](https://github.com/shun-lin/multi-similarity-loss-tensorflow)
    * [Deep Learning with TensorFlow 2 and Keras - 2nd Edition PacktPub](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
    * [Graph Neural Networks in TF2 (TensorFlow 2 library implementing Graph Neural Networks by Microsoft)](https://github.com/microsoft/tf2-gnn)
+   * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
    
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
    
