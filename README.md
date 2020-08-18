@@ -173,11 +173,12 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg)
    * [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts](https://www.youtube.com/watch?v=5ECD8J3dvDQ&list=PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg&index=4&t=0s)
 
-### DevSummit 2019 <a name="DevSum" />
-   * [PlayList](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
+### DevSummit <a name="DevSum" />
+   * [PlayList 2019](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
    * [**Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)**](https://www.youtube.com/watch?v=k5c-vg4rjBw)
-
-### Google I/O 2019 <a name="GIO" />
+   * [PlayList 2020](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU)
+   
+### Google I/O <a name="GIO" />
    * [PlayList](https://www.youtube.com/playlist?list=PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi)
    * [**Getting Started with TensorFlow 2.0 (Google I/O'19)**](https://www.youtube.com/watch?reload=9&v=lEljKc9ZtU8)
 
@@ -186,7 +187,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Coding TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx)
    * [#AskTensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvypL1nu_65Uhf5LuWlZdmSL)
    * [TensorFlow Meets](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyOeER8UNF-1zXaCKGLZVog)
-
+   * [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV)
+   * [Powered by TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyLQDomfBj-ptdBGTxAHwV_)
+   * [Natural Language Processing](https://www.youtube.com/watch?v=fNxaJsNG3-s&list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
+   * [Inside TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzIuB8rZXs7pfyjiSUs8Vza)
+   
 ### Course  <a name="course" />
    * [TensorFlow 2.0 Full Tutorial - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=6g4O5UOH304)
    * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
