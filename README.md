@@ -41,7 +41,7 @@ A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
 
 More info [here](https://www.tensorflow.org/tutorials).
 
-TensorFlow 2.2 is now available! 🎉🎉🎉
+TensorFlow 2.3 is now available! 🎉🎉🎉
 
 ![alt text](imgs/TF.png)
 
