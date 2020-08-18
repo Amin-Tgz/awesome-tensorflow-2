@@ -134,7 +134,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
    * [Yolo v4 using TensorFlow 2.x](https://github.com/RobotEdh/Yolov-4)
-
+   * [YOLO v3 TensorFlow Lite iOS GPU acceleration](https://github.com/JeiKeiLim/tflite-yolov3-gpu-ready)
+   * [A simple tf.keras implementation of YOLO v4](https://github.com/taipingeric/yolo-v4-tf.keras)
+   
+   
+   
    #### Other <a name="Other_Code" />🚦
    * [A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet). ](https://github.com/calmisential/Basic_CNNs_TensorFlow2) <==
    * [fast and scalable design of risk parity portfolios with TensorFlow 2.0](https://github.com/dppalomar/riskparity.py)
