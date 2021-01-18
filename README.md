@@ -165,7 +165,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
    * [An implementation of model-predictive control algorithms using TensorFlow 2](https://github.com/thiagopbueno/tf-mpc)
    * [TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
-
+   * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action)
+   
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
 ## Videos  🎥 📺 📹      <a name="videos" />
@@ -260,6 +261,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
+* [Tensorflow 2 in Action](https://www.manning.com/books/tensorflow-in-action)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
