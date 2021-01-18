@@ -166,7 +166,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
    * [An implementation of model-predictive control algorithms using TensorFlow 2](https://github.com/thiagopbueno/tf-mpc)
    * [TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
-   
+
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
 ## Videos  🎥 📺 📹      <a name="videos" />
