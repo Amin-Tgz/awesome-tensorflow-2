@@ -102,7 +102,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Deep Learning with TensorFlow 2 and Keras - 2nd Edition PacktPub](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
    * [Graph Neural Networks in TF2 (TensorFlow 2 library implementing Graph Neural Networks by Microsoft)](https://github.com/microsoft/tf2-gnn)
    * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
-
+   * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action) - Exercises of all the chapters in TensorFlow 2 in Action by Manning
+   
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
 
    ### Reinforcement Learning <a name="RL" />🔮
@@ -165,7 +166,6 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
    * [An implementation of model-predictive control algorithms using TensorFlow 2](https://github.com/thiagopbueno/tf-mpc)
    * [TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
-   * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
