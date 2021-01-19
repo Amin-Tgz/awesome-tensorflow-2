@@ -102,7 +102,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Deep Learning with TensorFlow 2 and Keras - 2nd Edition PacktPub](https://github.com/PacktPublishing/Deep-Learning-with-TensorFlow-2-and-Keras)
    * [Graph Neural Networks in TF2 (TensorFlow 2 library implementing Graph Neural Networks by Microsoft)](https://github.com/microsoft/tf2-gnn)
    * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
-
+   * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action) - Exercises of all the chapters in TensorFlow 2 in Action by Manning
+   
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
 
    ### Reinforcement Learning <a name="RL" />🔮
@@ -260,6 +261,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
+* [Tensorflow 2 in Action](https://www.manning.com/books/tensorflow-in-action)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
