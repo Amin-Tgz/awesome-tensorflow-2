@@ -104,6 +104,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
    * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action) - Exercises of all the chapters in TensorFlow 2 in Action by Manning
    * [Activeloop HUB](https://github.com/activeloopai/Hub) - The fastest way to store, access & manage datasets with version-control for PyTorch/TensorFlow. Works locally or on any cloud. Scalable data pipelines.
+   * [create-tf-app](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
+
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
 
    ### Reinforcement Learning <a name="RL" />🔮
