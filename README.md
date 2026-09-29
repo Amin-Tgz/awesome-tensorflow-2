@@ -125,8 +125,9 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
    * [Fast-SRGAN (Single Image Super Resolution GAN)](https://github.com/HasnainRaz/Fast-SRGAN)
-    * [Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/peteryuX/esrgan-tf2)
+   * [Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/peteryuX/esrgan-tf2)
 
+*
     #### Diffusion <a name="Diffusion_Code" />🌫️
     * [Stable Diffusion in TensorFlow / Keras](https://github.com/divamgupta/stable-diffusion-tensorflow)
     * [Clear Diffusion Keras](https://github.com/beresandras/clear-diffusion-keras)
