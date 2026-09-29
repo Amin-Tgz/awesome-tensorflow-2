@@ -14,6 +14,7 @@ A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
     * [Specific Model/Task (like GAN,RL,NLP,...)](#SpecificCode)
         * [Reinforcement Learning](#RL)
         * [GAN](#GAN_Code)
+        * [Diffusion](#Diffusion_Code)
         * [NLP](#NLP_Code)
         * [Object Detection](#OD)
         * [Other](#Other_Code)
@@ -41,7 +42,7 @@ A curated list of awesome Tensorflow v2 tutorials, blogs, and projects.
 
 More info [here](https://www.tensorflow.org/tutorials).
 
-TensorFlow 2.3 is now available! 🎉🎉🎉
+TensorFlow 2.21 is now available! 🎉🎉🎉
 
 ![alt text](imgs/TF.png)
 
@@ -52,8 +53,8 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 <a name="official" />
 
 ## Official Site 🏢
-* [TensorFlow 2.2](https://www.tensorflow.org/)
-* [Install](https://www.tensorflow.org/install/gpu) (Needs CUDA 10.1 & cuDNN = 7.6)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Install](https://www.tensorflow.org/install/gpu) (check the official guide for the matching CUDA & cuDNN versions)
 * [Effective_tf2](https://www.tensorflow.org/guide/effective_tf2)
 * [Quick Start](https://www.tensorflow.org/tutorials/quickstart/beginner)
 * [Upgrade guid](https://www.tensorflow.org/guide/upgrade)
@@ -73,8 +74,10 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Tensorflow2.0 tutorial from basic to hard](https://github.com/YunYang1994/TensorFlow2.0-Examples) <img src="imgs/3.png" alt="down" width="50" height="15">
 * [TensorFlow2.0_Eager_Execution_Tutorials](https://github.com/hellocybernetics/TensorFlow2.0_Eager_Execution_Tutorials) <img src="imgs/4.png" alt="down" width="50" height="17">
 * [Tensorflow 2.0 and Keras: what's new, what's shared, what's different](https://github.com/zerotodeeplearning/tf2_keras) <img src="imgs/3.png" alt="down" width="50" height="17">
-* [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/adhiraiyan/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
+* [Practical Exercises in Tensorflow 2.0 for Ian Goodfellows Deep Learning Book](https://github.com/astrumai/DeepLearningWithTF2.0) <img src="imgs/5.png" alt="down" width="50" height="17">
 * [Deep Learning Crash Course-(S9)](https://github.com/isikdogan/deep_learning_tutorials) <img src="imgs/4.png" alt="down" width="50" height="17">
+* [Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow - 3rd Edition Notebooks](https://github.com/ageron/handson-ml3)
+* [Deep Learning TensorFlow2 Examples](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
@@ -103,7 +106,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Graph Neural Networks in TF2 (TensorFlow 2 library implementing Graph Neural Networks by Microsoft)](https://github.com/microsoft/tf2-gnn)
    * [Sarus TF2 Models](https://github.com/sarus-tech/tf2-published-models) - A long list of recent generative models implemented in clean, easy to reuse, Tensorflow 2 code (Plain Autoencoder, VAE, VQ-VAE, PixelCNN, Gated PixelCNN, PixelCNN++, PixelSNAIL, Conditional Neural Processes).
    * [TensorFlow 2 in Action by Manning - Code Repository](https://github.com/thushv89/manning_tf2_in_action) - Exercises of all the chapters in TensorFlow 2 in Action by Manning
-   * [Activeloop HUB](https://github.com/activeloopai/Hub) - The fastest way to store, access & manage datasets with version-control for PyTorch/TensorFlow. Works locally or on any cloud. Scalable data pipelines.
+   * [Activeloop HUB](https://github.com/activeloopai/deeplake) - The fastest way to store, access & manage datasets with version-control for PyTorch/TensorFlow. Works locally or on any cloud. Scalable data pipelines.
    * [create-tf-app](https://github.com/radi-cho/create-tf-app) - Project builder command line tool for Tensorflow covering environment management, linting, and logging.
 
    ### Specific Model/Task (like GAN,RL,NLP,...) <a name="SpecificCode" />
@@ -113,7 +116,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [TensorFlow2.0 Reinforcement Learning Library!(TF2RL)](https://github.com/keiohta/tf2rl)
    * [Scalable and Efficient Deep-RL](https://github.com/google-research/seed_rl)
    * [Deep Reinforcement Learning with TensorFlow 2.0](https://github.com/inoryy/tensorflow2-deep-reinforcement-learning)
-   * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wongongv/PolicyGradient_in_tensorflow2.0)
+   * [Implemented Policy Gradient in Tensorflow2.0](https://github.com/wsonv/PolicyGradient_in_tensorflow2.0)
    * [TF2 PPO Atari](https://github.com/UesugiErii/tf2-PPO-atari)
 
    #### GAN <a name="GAN_Code" />🌄
@@ -122,29 +125,37 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [CartoonGAN](https://github.com/mnicnc404/CartoonGan-tensorflow)
    * [GANs - Tensorflow 2](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
    * [Fast-SRGAN (Single Image Super Resolution GAN)](https://github.com/HasnainRaz/Fast-SRGAN)
-   * [Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/peteryuX/esrgan-tf2)
+    * [Enhanced Super-Resolution Generative Adversarial Networks](https://github.com/peteryuX/esrgan-tf2)
+
+    #### Diffusion <a name="Diffusion_Code" />🌫️
+    * [Stable Diffusion in TensorFlow / Keras](https://github.com/divamgupta/stable-diffusion-tensorflow)
+    * [Clear Diffusion Keras](https://github.com/beresandras/clear-diffusion-keras)
+    * [Fine-tuning Stable Diffusion using Keras](https://github.com/sayakpaul/stable-diffusion-keras-ft)
 
    #### NLP <a name="NLP_Code" />🌈
    * [Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch](https://github.com/huggingface/transformers)
    * [Tensorflow 2 implementation of Causal-BERT](https://github.com/vveitch/causal-text-embeddings-tf2)
-   * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
-   * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
+    * [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/thisisiron/nmt-attention-tf2)
    * [BERT in TensorFlow 2](https://github.com/tensorflow/models/tree/master/official/nlp/bert)
-   * [A Keras TensorFlow 2.0 implementation of BERT, ALBERT and adapter-BERT](https://github.com/kpe/bert-for-tf2)
+    * [A Keras TensorFlow 2.0 implementation of BERT, ALBERT and adapter-BERT](https://github.com/kpe/bert-for-tf2)
+    * [KerasHub: Pretrained Models for Keras 3](https://github.com/keras-team/keras-hub)
 
    #### Object Detection <a name="OD" />🔥
-   * [MobileNet_V3](https://github.com/calmisential/MobileNetV3_TensorFlow2.0)
+   * [MobileNet_V3](https://github.com/calmiLovesAI/MobileNetV3_TensorFlow2)
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
    * [Tensorflow Object Detection with Tensorflow 2.0](https://github.com/TannerGilbert/Tensorflow-Object-Detection-with-Tensorflow-2.0)
    * [Yolo v4 using TensorFlow 2.x](https://github.com/RobotEdh/Yolov-4)
    * [YOLO v3 TensorFlow Lite iOS GPU acceleration](https://github.com/JeiKeiLim/tflite-yolov3-gpu-ready)
-   * [A simple tf.keras implementation of YOLO v4](https://github.com/taipingeric/yolo-v4-tf.keras)
+    * [A simple tf.keras implementation of YOLO v4](https://github.com/taipingeric/yolo-v4-tf.keras)
+    * [YOLOv8 in the Browser with TensorFlow.js](https://github.com/Hyuto/yolov8-tfjs)
+    * [YOLOv8, YOLOv9, YOLOv10, YOLOv11 on Mobile Devices](https://github.com/surendramaran/YOLO)
+    * [Official Ultralytics YOLO Flutter App](https://github.com/ultralytics/yolo-flutter-app)
    
    
    
    #### Other <a name="Other_Code" />🚦
-   * [A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet). ](https://github.com/calmisential/Basic_CNNs_TensorFlow2) <==
-   * [fast and scalable design of risk parity portfolios with TensorFlow 2.0](https://github.com/dppalomar/riskparity.py)
+   * [A tensorflow2 implementation of some basic CNNs(MobileNetV1/V2/V3, EfficientNet, ResNeXt, InceptionV4, InceptionResNetV1/V2, SENet, SqueezeNet, DenseNet, ShuffleNetV2, ResNet). ](https://github.com/calmiLovesAI/Basic_CNNs_TensorFlow2) <==
+   * [fast and scalable design of risk parity portfolios with TensorFlow 2.0](https://github.com/convexfi/riskparity.py)
    * [Tensorflow 2.0 Realtime Multi-Person Pose Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation)
    * [Train ResNet on ImageNet in Tensorflow 2.0](https://github.com/Apm5/ImageNet_ResNet_Tensorflow2.0)
    * [CBAM(Convolutional Block Attention Module) implementation on TensowFlow2.0](https://github.com/zhangkaifang/CBAM-TensorFlow2.0)
@@ -156,8 +167,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [Some state-of-the-art Few Shot Learning algorithms in Tensorflow 2](https://github.com/ClementWalter/Keras-FewShotLearning)
    * [Tensorflow2 question-answering (Kaggle)](https://www.kaggle.com/c/tensorflow2-question-answering/notebooks)
    * [Tensorflow 2.0 example](https://github.com/Apm5/tensorflow_2.0_example)
-   * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-pose-estimation)
-   * [Speech Recognition](https://github.com/mszulc913/speechrecognitionchalange-lstm-tensorflow2)
+    * [Single pose estimation for iOS and android using TensorFlow 2.0](https://github.com/tucan9389/tf2-mobile-2d-single-pose-estimation)
    * [Music transformer](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
    * [Handwritten Text Recognition (HTR) system implemented using TensorFlow 2.0](https://github.com/arthurflor23/handwritten-text-recognition)
    * [Meta learning framework with Tensorflow 2.0](https://github.com/siavash-khodadadeh/MetaLearning-TF2.0)
@@ -167,7 +177,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
    * [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://github.com/peteryuX/retinaface-tf2)
    * [PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search](https://github.com/peteryuX/pcdarts-tf2)
    * [An implementation of model-predictive control algorithms using TensorFlow 2](https://github.com/thiagopbueno/tf-mpc)
-   * [TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
+    * [TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/TensorSpeech/TensorflowTTS)
+    * [Offline Speech Recognition with Whisper and TensorFlow Lite for Android](https://github.com/vilassn/whisper_android)
+    * [Optimized Whisper TFLite Port for Edge Devices](https://github.com/nyadla-sys/whisper.tflite)
+    * [Self-Hosted Realtime Bird and Wildlife Soundscape Analyser](https://github.com/tphakala/birdnet-go)
+    * [Temporal Kolmogorov-Arnold Networks in TensorFlow 2 / Keras 3](https://github.com/remigenet/TKAN)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
@@ -252,6 +266,11 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [TensorFlow 2.0 upgrader service](https://github.com/lc0/tf2up)
 * [Tensorflow Hub](https://tfhub.dev/s?q=tf2)
 * [Guild AI](https://guild.ai)
+* [Nobuco: PyTorch to Keras/TensorFlow/TFLite Conversion](https://github.com/AlexanderLutsenko/nobuco)
+* [High-Performance TensorFlow Lite for React Native](https://github.com/margelo/react-native-fast-tflite)
+* [TensorFlow Lite Plugin for Flutter](https://github.com/tensorflow/flutter-tflite)
+* [SwanLab: AI Training Tracking with Keras Support](https://github.com/SwanHubX/SwanLab)
+* [KitOps: Packaging and Versioning for AI/ML Projects](https://github.com/kitops-ml/kitops)
 
 ### #PoweredByTF 2.0 Challenge<a name="PWBYTF2" /> 🔫 💣 🏆
 
@@ -264,6 +283,7 @@ For Tensrflow **version <1.x>** see this **[awesome collection](https://github.c
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
 * [Tensorflow 2 in Action](https://www.manning.com/books/tensorflow-in-action)
+* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition - Code Companion](https://github.com/ageron/handson-ml3)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
